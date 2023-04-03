@@ -6,21 +6,13 @@
 - ⚡ Fun fact Polar bears are nearly undetectable by infrared cameras, which makes them invisible to drones and other technologies used to study wildlife.
 
 🌟 Skills
-Front-end: React.js, HTML, CSS, JavaScript
-Back-end: Node.js, Express.js, MongoDB, REST APIs
-Other: Git, Heroku, AWS, Agile methodology
+- Front-end: React.js, HTML, CSS, JavaScript
+- Back-end: Node.js, Express.js, MongoDB, REST APIs
+- Other: Git, Heroku, AWS, Agile methodology
 
-<!--
-**Asfandyaar2/Asfandyaar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact 
--->
+🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/asfandyar2/)
+- [Personal Website]( https://asfandyaar.online/)
+- [GitHub](https://github.com/Asfandyaar2)
+- [Facebook](https://www.facebook.com/aliasfandali?mibextid=ZbWKwL)
+- [Twitter](https://twitter.com/Asfandy57235023?t=2Q0I_UApDToLGvathcDvbQ&s=09)
