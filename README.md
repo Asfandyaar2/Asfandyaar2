@@ -5,6 +5,11 @@
 - 📫 How to reach me asfi.official@gmail.com
 - ⚡ Fun fact Polar bears are nearly undetectable by infrared cameras, which makes them invisible to drones and other technologies used to study wildlife.
 
+🌟 Skills
+Front-end: React.js, HTML, CSS, JavaScript
+Back-end: Node.js, Express.js, MongoDB, REST APIs
+Other: Git, Heroku, AWS, Agile methodology
+
 <!--
 **Asfandyaar2/Asfandyaar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
