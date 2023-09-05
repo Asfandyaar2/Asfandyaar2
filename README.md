@@ -1,7 +1,7 @@
 
 - I’m Asfand yar.
 - 🌱 I’m currently learning Nextjs,Typscript,AWS.
-- 👨‍💻 All of my projects are available at https://asfandyaar.online/
+- 👨‍💻 All of my projects are available at https://asfandyaar2.netlify.app/
 - 📫 How to reach me asfi.official@gmail.com
 - ⚡ Fun fact Polar bears are nearly undetectable by infrared cameras, which makes them invisible to drones and other technologies used to study wildlife.
 
