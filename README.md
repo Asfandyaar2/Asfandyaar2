@@ -25,4 +25,4 @@ Feel free to connect with me on these platforms:
 - [Facebook](https://www.facebook.com/aliasfandali?mibextid=ZbWKwL)
 - [Twitter](https://twitter.com/Asfandy57235023?t=2Q0I_UApDToLGvathcDvbQ&s=09)
 
-Looking forward to connecting and collaborating with fellow developers and tech enthusiasts! 😊
+Looking forward to connecting and collaborating with fellow developers and tech enthusiasts! 
