@@ -11,7 +11,7 @@ I'm a passionate software developer on a journey of continuous learning. Here's 
 
 I bring a wide range of skills to the table:
 
-- **Front-end:** React.js, HTML, CSS, JavaScript
+- **Front-end:** Reactjs,Nextjs,JavaScript,TypeScript,MUI,Tailwind,AntD,Custome CSS/Sass,
 - **Back-end:** Node.js, Express.js, MongoDB, REST APIs
 - **Other Tools:** Git, Heroku, AWS, Agile methodology
 
@@ -20,7 +20,7 @@ I bring a wide range of skills to the table:
 Feel free to connect with me on these platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/asfandyar2/)
-- [Personal Website](https://asfandyaar.online/)
+- [Personal Website](https://asfandyaar2.netlify.app/)
 - [GitHub](https://github.com/Asfandyaar2)
 - [Facebook](https://www.facebook.com/aliasfandali?mibextid=ZbWKwL)
 - [Twitter](https://twitter.com/Asfandy57235023?t=2Q0I_UApDToLGvathcDvbQ&s=09)
