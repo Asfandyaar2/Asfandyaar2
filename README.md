@@ -12,7 +12,7 @@ I'm an experienced software developer with a passion for cutting-edge technologi
 I specialize in both front-end and back-end development, with a focus on building scalable, high-performance web applications:
 
 - **Front-end:** React.js, Next.js, JavaScript, TypeScript, Material-UI, TailwindCSS, Ant Design, Custom CSS/Sass  
-- **Back-end:** Node.js, Express.js, MongoDB, GraphQL, REST APIs, Serverless, Microservices  
+- **Back-end:** Node.js, Express.js,Nestjs,PostgrSQL, MongoDB, GraphQL, REST APIs, Serverless, Microservices  
 - **Cloud & DevOps:** AWS (Lambda, S3, EC2), Docker, CI/CD Pipelines, Infrastructure as Code (IaC)  
 - **API Tools & Integrations:** Postman, Google APIs, Mapbox, Twilio, Stripe, Zoom API, YouTube Analytics API, Meta (Facebook, Instagram) Graph API, Social Media Analytics, Data Visualization  
 - **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket, Jira, Asana, Trello, Slack, Notion
