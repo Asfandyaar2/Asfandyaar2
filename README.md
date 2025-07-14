@@ -3,7 +3,7 @@
 I'm an experienced software developer with a passion for cutting-edge technologies and continuous growth. Here's a snapshot of who I am:
 
 🌱 Currently mastering: Next.js, TypeScript, AWS, and serverless architectures to build scalable, high-performance applications.  
-👨‍💻 I showcase all my innovative projects on my [portfolio website](https://asfandyaar2.netlify.app/). Explore my work!  
+👨‍💻 I showcase all my innovative projects on my [portfolio website](https://asfand-portfolio.vercel.app/). Explore my work!  
 📫 For inquiries or collaboration, feel free to reach out at asfi.official@gmail.com.  
 ⚡ Fun Fact: Polar bears are virtually undetectable by infrared cameras, rendering them invisible to drones and wildlife-monitoring technologies.
 
